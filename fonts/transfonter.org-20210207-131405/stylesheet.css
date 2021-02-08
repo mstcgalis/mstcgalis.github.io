@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'Greta Sans Pro Bld';
+    src: url('GretaSansPro-Bld.woff2') format('woff2'),
+        url('GretaSansPro-Bld.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Bld';
+    src: url('GretaSansPro-BldIta.woff2') format('woff2'),
+        url('GretaSansPro-BldIta.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Blk';
+    src: url('GretaSansPro-BlkIta.woff2') format('woff2'),
+        url('GretaSansPro-BlkIta.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Blk';
+    src: url('GretaSansPro-Blk.woff2') format('woff2'),
+        url('GretaSansPro-Blk.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro ExLt';
+    src: url('GretaSansPro-ExLtIta.woff2') format('woff2'),
+        url('GretaSansPro-ExLtIta.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro ExLt';
+    src: url('GretaSansPro-ExLt.woff2') format('woff2'),
+        url('GretaSansPro-ExLt.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Hair';
+    src: url('GretaSansPro-Hair.woff2') format('woff2'),
+        url('GretaSansPro-Hair.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Hair';
+    src: url('GretaSansPro-HairIta.woff2') format('woff2'),
+        url('GretaSansPro-HairIta.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Hea';
+    src: url('GretaSansPro-Hea.woff2') format('woff2'),
+        url('GretaSansPro-Hea.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Lt';
+    src: url('GretaSansPro-Lt.woff2') format('woff2'),
+        url('GretaSansPro-Lt.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Hea';
+    src: url('GretaSansPro-HeaIta.woff2') format('woff2'),
+        url('GretaSansPro-HeaIta.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Lt';
+    src: url('GretaSansPro-LtIta.woff2') format('woff2'),
+        url('GretaSansPro-LtIta.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Med';
+    src: url('GretaSansPro-Med.woff2') format('woff2'),
+        url('GretaSansPro-Med.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Med';
+    src: url('GretaSansPro-MedIta.woff2') format('woff2'),
+        url('GretaSansPro-MedIta.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Reg';
+    src: url('GretaSansPro-Reg.woff2') format('woff2'),
+        url('GretaSansPro-Reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro Reg';
+    src: url('GretaSansPro-RegIta.woff2') format('woff2'),
+        url('GretaSansPro-RegIta.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro SmBld';
+    src: url('GretaSansPro-SmBldIta.woff2') format('woff2'),
+        url('GretaSansPro-SmBldIta.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro SmBld';
+    src: url('GretaSansPro-SmBld.woff2') format('woff2'),
+        url('GretaSansPro-SmBld.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro';
+    src: url('GretaSansPro-Thin.woff2') format('woff2'),
+        url('GretaSansPro-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Sans Pro';
+    src: url('GretaSansPro-ThinIta.woff2') format('woff2'),
+        url('GretaSansPro-ThinIta.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
