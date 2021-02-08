@@ -50,91 +50,91 @@
 }
 @font-face {
   font-family: "Greta Sans Pro Hair";
-  src: url("GretaSansPro-HairIta.woff2") format("woff2"), url("GretaSansPro-HairIta.woff") format("woff");
+  src: url("fonts/GretaSansPro-HairIta.woff2") format("woff2"), url("fonts/GretaSansPro-HairIta.woff") format("woff");
   font-weight: 100;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro Hea";
-  src: url("GretaSansPro-Hea.woff2") format("woff2"), url("GretaSansPro-Hea.woff") format("woff");
+  src: url("fonts/GretaSansPro-Hea.woff2") format("woff2"), url("fonts/GretaSansPro-Hea.woff") format("woff");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro Lt";
-  src: url("GretaSansPro-Lt.woff2") format("woff2"), url("GretaSansPro-Lt.woff") format("woff");
+  src: url("fonts/GretaSansPro-Lt.woff2") format("woff2"), url("fonts/GretaSansPro-Lt.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro Hea";
-  src: url("GretaSansPro-HeaIta.woff2") format("woff2"), url("GretaSansPro-HeaIta.woff") format("woff");
+  src: url("fonts/GretaSansPro-HeaIta.woff2") format("woff2"), url("fonts/GretaSansPro-HeaIta.woff") format("woff");
   font-weight: 800;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro Lt";
-  src: url("GretaSansPro-LtIta.woff2") format("woff2"), url("GretaSansPro-LtIta.woff") format("woff");
+  src: url("fonts/GretaSansPro-LtIta.woff2") format("woff2"), url("fonts/GretaSansPro-LtIta.woff") format("woff");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro Med";
-  src: url("GretaSansPro-Med.woff2") format("woff2"), url("GretaSansPro-Med.woff") format("woff");
+  src: url("fonts/GretaSansPro-Med.woff2") format("woff2"), url("fonts/GretaSansPro-Med.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro Med";
-  src: url("GretaSansPro-MedIta.woff2") format("woff2"), url("GretaSansPro-MedIta.woff") format("woff");
+  src: url("fonts/GretaSansPro-MedIta.woff2") format("woff2"), url("fonts/GretaSansPro-MedIta.woff") format("woff");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro Reg";
-  src: url("GretaSansPro-Reg.woff2") format("woff2"), url("GretaSansPro-Reg.woff") format("woff");
+  src: url("fonts/GretaSansPro-Reg.woff2") format("woff2"), url("fonts/GretaSansPro-Reg.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro Reg";
-  src: url("GretaSansPro-RegIta.woff2") format("woff2"), url("GretaSansPro-RegIta.woff") format("woff");
+  src: url("fonts/GretaSansPro-RegIta.woff2") format("woff2"), url("fonts/GretaSansPro-RegIta.woff") format("woff");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro SmBld";
-  src: url("GretaSansPro-SmBldIta.woff2") format("woff2"), url("GretaSansPro-SmBldIta.woff") format("woff");
+  src: url("fonts/GretaSansPro-SmBldIta.woff2") format("woff2"), url("fonts/GretaSansPro-SmBldIta.woff") format("woff");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro SmBld";
-  src: url("GretaSansPro-SmBld.woff2") format("woff2"), url("GretaSansPro-SmBld.woff") format("woff");
+  src: url("fonts/GretaSansPro-SmBld.woff2") format("woff2"), url("fonts/GretaSansPro-SmBld.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro";
-  src: url("GretaSansPro-Thin.woff2") format("woff2"), url("GretaSansPro-Thin.woff") format("woff");
+  src: url("fonts/GretaSansPro-Thin.woff2") format("woff2"), url("fonts/GretaSansPro-Thin.woff") format("woff");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Greta Sans Pro";
-  src: url("GretaSansPro-ThinIta.woff2") format("woff2"), url("GretaSansPro-ThinIta.woff") format("woff");
+  src: url("fonts/GretaSansPro-ThinIta.woff2") format("woff2"), url("fonta/GretaSansPro-ThinIta.woff") format("woff");
   font-weight: 100;
   font-style: italic;
   font-display: swap;
