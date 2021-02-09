@@ -37,42 +37,6 @@
 
 @font-face {
     font-family: 'Greta Sans Pro';
-    src: url('fonts/GretaSansPro-ExLtIta.woff2') format('woff2'),
-        url('fonts/GretaSansPro-ExLtIta.woff') format('woff');
-    font-weight: 300;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Greta Sans Pro';
-    src: url('fonts/GretaSansPro-ExLt.woff2') format('woff2'),
-        url('fonts/GretaSansPro-ExLt.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Greta Sans Pro';
-    src: url('fonts/GretaSansPro-Hair.woff2') format('woff2'),
-        url('fonts/GretaSansPro-Hair.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Greta Sans Pro';
-    src: url('fonts/GretaSansPro-HairIta.woff2') format('woff2'),
-        url('fonts/GretaSansPro-HairIta.woff') format('woff');
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Greta Sans Pro';
     src: url('fonts/GretaSansPro-Hea.woff2') format('woff2'),
         url('fonts/GretaSansPro-Hea.woff') format('woff');
     font-weight: 800;
@@ -186,6 +150,14 @@ $blue:    #1440FF;
 $font-family-base: 'Greta Sans Pro';
 $font-size-base:              1.5rem;
 
+$font-weight-lighter:         100;
+$font-weight-light:           300;
+$font-weight-normal:          normal;
+$font-weight-bold:            600;
+$font-weight-bolder:          800;
+
+$font-weight-base:            $font-weight-normal;
+
 $spacer: 1rem;
 
 $navbar-padding-y:                  $spacer / 2;
@@ -259,3 +231,11 @@ body {
      padding: 0 !important;
      margin: 0 !important;
   }
+.reflect {
+    font-style: italic;
+    font-size: $font-size-sm;
+
+}
+.project {
+    font-size: $font-size-sm;
+}

@@ -29,34 +29,6 @@
 }
 @font-face {
   font-family: "Greta Sans Pro";
-  src: url("fonts/GretaSansPro-ExLtIta.woff2") format("woff2"), url("fonts/GretaSansPro-ExLtIta.woff") format("woff");
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "Greta Sans Pro";
-  src: url("fonts/GretaSansPro-ExLt.woff2") format("woff2"), url("fonts/GretaSansPro-ExLt.woff") format("woff");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "Greta Sans Pro";
-  src: url("fonts/GretaSansPro-Hair.woff2") format("woff2"), url("fonts/GretaSansPro-Hair.woff") format("woff");
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "Greta Sans Pro";
-  src: url("fonts/GretaSansPro-HairIta.woff2") format("woff2"), url("fonts/GretaSansPro-HairIta.woff") format("woff");
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "Greta Sans Pro";
   src: url("fonts/GretaSansPro-Hea.woff2") format("woff2"), url("fonts/GretaSansPro-Hea.woff") format("woff");
   font-weight: 800;
   font-style: normal;
@@ -205,7 +177,7 @@ body {
   margin: 0;
   font-family: "Greta Sans Pro";
   font-size: 1.5rem;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   color: #212529;
   text-align: left;
@@ -264,7 +236,7 @@ ul ol {
 }
 
 dt {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 dd {
@@ -278,7 +250,7 @@ blockquote {
 
 b,
 strong {
-  font-weight: bolder;
+  font-weight: 800;
 }
 
 small {
@@ -570,7 +542,7 @@ hr {
 small,
 .small {
   font-size: 80%;
-  font-weight: 400;
+  font-weight: normal;
 }
 
 mark,
@@ -662,7 +634,7 @@ kbd {
 kbd kbd {
   padding: 0;
   font-size: 100%;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 pre {
@@ -2110,7 +2082,7 @@ pre code {
   height: calc(1.5em + 0.75rem + 2px);
   padding: 0.375rem 0.75rem;
   font-size: 1.5rem;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   color: #495057;
   background-color: #fff;
@@ -2534,7 +2506,7 @@ textarea.form-control {
 
 .btn {
   display: inline-block;
-  font-weight: 400;
+  font-weight: normal;
   color: #212529;
   text-align: center;
   vertical-align: middle;
@@ -3013,7 +2985,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link {
-  font-weight: 400;
+  font-weight: normal;
   color: #1440FF;
   text-decoration: none;
 }
@@ -3276,7 +3248,7 @@ input[type=button].btn-block {
   width: 100%;
   padding: 0.25rem 1.5rem;
   clear: both;
-  font-weight: 400;
+  font-weight: normal;
   color: #212529;
   text-align: inherit;
   white-space: nowrap;
@@ -3525,7 +3497,7 @@ input[type=button].btn-block {
   padding: 0.375rem 0.75rem;
   margin-bottom: 0;
   font-size: 1.5rem;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   color: #495057;
   text-align: center;
@@ -3741,7 +3713,7 @@ input[type=button].btn-block {
   height: calc(1.5em + 0.75rem + 2px);
   padding: 0.375rem 1.75rem 0.375rem 0.75rem;
   font-size: 1.5rem;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   color: #495057;
   vertical-align: middle;
@@ -3833,7 +3805,7 @@ input[type=button].btn-block {
   height: calc(1.5em + 0.75rem + 2px);
   padding: 0.375rem 0.75rem;
   overflow: hidden;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   color: #495057;
   background-color: #fff;
@@ -4800,7 +4772,7 @@ input[type=button].btn-block {
   display: inline-block;
   padding: 0.25em 0.4em;
   font-size: 75%;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1;
   text-align: center;
   white-space: nowrap;
@@ -4967,7 +4939,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .alert-link {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .alert-dismissible {
@@ -5438,7 +5410,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .close {
   float: right;
   font-size: 2.25rem;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1;
   color: #000;
   text-shadow: 0 1px 0 #fff;
@@ -5705,7 +5677,7 @@ a.close.disabled {
   margin: 0;
   font-family: "Greta Sans Pro";
   font-style: normal;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   text-align: left;
   text-align: start;
@@ -5807,7 +5779,7 @@ a.close.disabled {
   max-width: 276px;
   font-family: "Greta Sans Pro";
   font-style: normal;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   text-align: left;
   text-align: start;
@@ -9870,19 +9842,19 @@ button.bg-dark:focus {
 }
 
 .font-weight-lighter {
-  font-weight: lighter !important;
+  font-weight: 100 !important;
 }
 
 .font-weight-normal {
-  font-weight: 400 !important;
+  font-weight: normal !important;
 }
 
 .font-weight-bold {
-  font-weight: 700 !important;
+  font-weight: 600 !important;
 }
 
 .font-weight-bolder {
-  font-weight: bolder !important;
+  font-weight: 800 !important;
 }
 
 .font-italic {
@@ -10132,4 +10104,13 @@ h3 {
 .nopadding {
   padding: 0 !important;
   margin: 0 !important;
+}
+
+.reflect {
+  font-style: italic;
+  font-size: 1.3125rem;
+}
+
+.project {
+  font-size: 1.3125rem;
 }
