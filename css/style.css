@@ -236,7 +236,7 @@ ul ol {
 }
 
 dt {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 dd {
@@ -634,7 +634,7 @@ kbd {
 kbd kbd {
   padding: 0;
   font-size: 100%;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 pre {
@@ -4772,7 +4772,7 @@ input[type=button].btn-block {
   display: inline-block;
   padding: 0.25em 0.4em;
   font-size: 75%;
-  font-weight: bold;
+  font-weight: 600;
   line-height: 1;
   text-align: center;
   white-space: nowrap;
@@ -4939,7 +4939,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .alert-link {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .alert-dismissible {
@@ -5410,7 +5410,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .close {
   float: right;
   font-size: 2.25rem;
-  font-weight: bold;
+  font-weight: 600;
   line-height: 1;
   color: #000;
   text-shadow: 0 1px 0 #fff;
@@ -9850,7 +9850,7 @@ button.bg-dark:focus {
 }
 
 .font-weight-bold {
-  font-weight: bold !important;
+  font-weight: 600 !important;
 }
 
 .font-weight-bolder {
@@ -10074,7 +10074,7 @@ h3 {
 
 .navbar-dark .navbar-nav .nav-link {
   color: white;
-  font-weight: bold;
+  font-weight: 600;
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
   color: white;
