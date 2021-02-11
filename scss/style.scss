@@ -153,18 +153,20 @@ $font-size-base:              1.5rem;
 $font-weight-lighter:         100;
 $font-weight-light:           300;
 $font-weight-normal:          normal;
-$font-weight-bold:            600;
+$font-weight-bold:            bold;
 $font-weight-bolder:          800;
 
 $font-weight-base:            $font-weight-normal;
 
-$spacer: 1rem;
+$spacer: 2rem;
 
 $navbar-padding-y:                  $spacer / 2;
 $navbar-padding-x:                  $spacer / 1;
-$navbar-nav-link-padding-x:         1rem;
+$navbar-nav-link-padding-x:         $spacer;
 
 $navbar-dark-toggler-icon-bg:       url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='white' stroke-linecap='square' stroke-miterlimit='10' stroke-width='2.5' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+
+$border-radius:               0.4rem;
 
 
 html {
@@ -199,7 +201,7 @@ body {
 .navbar-dark .navbar-nav {
     .nav-link {
       color:white;
-      font-weight:600;
+      font-weight: bold;
 
       @include hover-focus() {
         color:white;
@@ -236,6 +238,19 @@ body {
     font-size: $font-size-sm;
 
 }
+.rowheight {
+    height: 300px;
+    display:flex;
+    align-items: center;
+}
+
 .project {
     font-size: $font-size-sm;
+}
+.btn.btn-primary:active,
+.btn.btn-primary:hover,
+.btn.btn-primary:focus {
+  background-color: $primary !important;
+  text-decoration: underline !important;
+  box-shadow: 0 0 0 !important;
 }
