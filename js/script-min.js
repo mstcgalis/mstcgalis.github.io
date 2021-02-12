@@ -1,1 +1,0 @@
-const scrollSpy=new mdb.ScrollSpy(document.body,{target:"#navbar-example"});
